@@ -114,4 +114,10 @@ vector<double> values;
 // for-statement will read all the double s we give it and stop when we give it anything else.
 for(double i; cin >> i;)
     values.push_back(i);
+    
+// compute median temperature:
+sort(values);  // sort temperatures
+cout << "Median value: " << values[values.size()/2] << '\n';
 ```
+***
+# Errors
