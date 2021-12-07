@@ -2,7 +2,9 @@
 
 To learn _how to create Makefile_, read:
 * https://cs.colby.edu/maxwell/courses/tutorials/maketutor/
+* https://www.math.colostate.edu/~yzhou/computer/writemakefile.html
 * https://www.bogotobogo.com/cplusplus/make.php
+* https://stackoverflow.com/questions/58039810/makefiles-what-is-an-order-only-prerequisite
 
 To learn _how to Add an External C++ Library to Your Project_, read: 
 * https://automaticaddison.com/how-to-add-an-external-c-library-to-your-project/
