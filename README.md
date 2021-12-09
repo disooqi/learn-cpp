@@ -19,3 +19,6 @@ To learn CMAKE:
 * https://www.bogotobogo.com/cplusplus/files/cmake/CMake-tutorial-pdf.pdf
 * https://cmake.org/cmake/help/latest/guide/tutorial/index.html
 * https://www.amazon.ca/Mastering-CMake-Ken-Martin/dp/1930934319/
+
+To learn how linking happens:
+* https://www.lurklurk.org/linkers/linkers.html
