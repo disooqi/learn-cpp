@@ -1,0 +1,1 @@
+A reference is similar to a pointer except that you dont need to use a prefix unary `*` to access the value referred to by the reference. Also, a reference can't be made to refer to a different object after its initialization.
