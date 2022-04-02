@@ -40,3 +40,14 @@ Note that the `*` sign can be confusing here, as it does two different things in
 1. When used in declaration (`string* ptr`), it creates a pointer variable.
 2. When not used in declaration, it act as a dereference operator.
 
+To allocate 8 bytes of memory in heap (not stack):
+```
+char* buffer = new char[8];  // return a pointer to the beggining of the memory block
+memset(buffer, 0, 8); // filling the bytes with value 0
+delete[] buffer; // To delete the variables allocated with "new" keyword
+```
+
+### A Pointer to A Pointer
+```
+char** ptr = &buffer;
+```
